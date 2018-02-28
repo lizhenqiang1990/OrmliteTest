@@ -3,3 +3,4 @@ test HEAD
 diff
 test branch strack & simple
 --no-ff
+--no-ff 2
