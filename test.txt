@@ -2,3 +2,4 @@ test branch 221
 test HEAD
 diff
 test branch strack & simple
+--no-ff
