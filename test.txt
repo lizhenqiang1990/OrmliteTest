@@ -1,3 +1,4 @@
 test branch 221
 test HEAD
 diff
+test branch strck and simple
