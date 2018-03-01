@@ -4,3 +4,4 @@ diff
 test branch strack & simple
 --no-ff
 --no-ff 2
+merge -- rebase
