@@ -1,2 +1,3 @@
 test rebase
 test rebase 2
+test merge
