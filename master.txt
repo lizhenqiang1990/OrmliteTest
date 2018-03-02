@@ -1,3 +1,4 @@
 这里是master
 git reset
 git remote
+git push
