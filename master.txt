@@ -1,5 +1,7 @@
 这里是master
 git reset
 git diff
+git diff staged  --cached
+git diff work --stage
 git remote
 git push
