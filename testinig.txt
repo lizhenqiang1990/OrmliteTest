@@ -1,2 +1,3 @@
 testing rebase 1
 testing rebase 2
+testing rebase 3
