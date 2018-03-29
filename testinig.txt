@@ -1,3 +1,4 @@
 testing rebase 1
 testing rebase 2
 testing rebase 3
+testing rebase 4
