@@ -1,6 +1,7 @@
 test branch 221
 llll
 git rebase 1
+git log -g xxx
 test HEAD
 diff
 test branch strack & simple
