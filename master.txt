@@ -6,3 +6,4 @@ git diff staged  --cached
 git diff work --stage
 git remote
 git push
+git xxxx
