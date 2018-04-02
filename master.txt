@@ -1,4 +1,5 @@
 这里是master
+git xx -i
 git reset
 git diff
 git diff staged  --cached
