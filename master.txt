@@ -7,3 +7,4 @@ git diff work --stage
 git remote
 git push
 git xxxx
+git update
