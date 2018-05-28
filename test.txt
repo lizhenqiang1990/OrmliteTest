@@ -1,4 +1,5 @@
 test branch 221
+test mean
 llll
 git rebase 1
 git log -g xxx
