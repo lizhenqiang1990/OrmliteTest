@@ -8,3 +8,4 @@ git remote
 git push
 git xxxx
 git update
+git install
